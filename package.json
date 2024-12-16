@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "name": "hivera-bot",
+  "version": "1.0.0",
+  "description": "A decentralized network power by @ton_blockchain, backed by @Ton_Incubator. Contribute to powering AI innovation worldwide. [https://t.me/Hiverabot](https://t.me/Hiverabot/app?startapp=2b6a4dfc8)",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "airdropinsiders",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.2",
+    "winston": "^3.17.0",
+    "https-proxy-agent": "^7.0.2"
+  }
+}
